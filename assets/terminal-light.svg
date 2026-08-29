@@ -1,24 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-label="nima@github: ~ — whoami: Nima Naghibi, backend and infrastructure engineer at Hatchup">
-  <rect x="0.5" y="0.5" width="799" height="199" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
-  <path d="M0 36 H800" stroke="#d1d9e0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="556" viewBox="0 0 1200 556" role="img" aria-label="A terminal session. $ whoami — Nima Naghibi, backend and infrastructure engineer at Hatchup. $ cat about.txt — I build the layer underneath: APIs, the servers behind them, and the automation that puts them there. When I want to understand something, I write it from scratch. $ ls langs/ — bash, c, go, java, python, typescript. $ ls stack/ — ansible, docker, docker-swarm, grafana, kafka, linux, portainer, postgresql, prometheus, redis. $ cat .focus — distributed systems, networking, operating systems, system design, security. $ uptime — Iran, always curious.">
+  <rect x="0.5" y="0.5" width="1199" height="555" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
+  <path d="M0 40 H1200" stroke="#d1d9e0"/>
 
-  <circle cx="24" cy="18" r="6" fill="#ff5f57"/>
-  <circle cx="44" cy="18" r="6" fill="#febc2e"/>
-  <circle cx="64" cy="18" r="6" fill="#28c840"/>
+  <circle cx="26" cy="20" r="6.5" fill="#ff5f57"/>
+  <circle cx="48" cy="20" r="6.5" fill="#febc2e"/>
+  <circle cx="70" cy="20" r="6.5" fill="#28c840"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="400" y="23" font-size="12.5" fill="#59636e" text-anchor="middle">nima@github: ~</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+    <text x="600" y="25.5" font-size="13" fill="#59636e" text-anchor="middle">nima@github: ~</text>
 
-    <text x="28" y="78" font-size="15">
-      <tspan fill="#1a7f37">$</tspan><tspan fill="#1f2328" xml:space="preserve"> whoami</tspan>
-    </text>
-    <text x="28" y="108" font-size="18" font-weight="600" fill="#1f2328">Nima Naghibi</text>
-    <text x="28" y="133" font-size="14" fill="#59636e">Backend &amp; infrastructure engineer @ Hatchup</text>
+    <text x="36" y="80"><tspan fill="#1a7f37">$</tspan><tspan fill="#1f2328" dx="9">whoami</tspan></text>
+    <text x="36" y="110" font-size="18" font-weight="600" fill="#1f2328">Nima Naghibi</text>
+    <text x="36" y="135" font-size="14" fill="#59636e">Backend &amp; infrastructure engineer @ Hatchup</text>
 
-    <text x="28" y="170" font-size="15" fill="#1a7f37">$</text>
+    <text x="36" y="174"><tspan fill="#1a7f37">$</tspan><tspan fill="#1f2328" dx="9">cat about.txt</tspan></text>
+    <text x="36" y="199" fill="#59636e">I build the layer underneath — APIs, the servers behind them, and the automation that puts them there.</text>
+    <text x="36" y="224" fill="#59636e">When I want to understand something, I write it from scratch.</text>
+
+    <text x="36" y="263"><tspan fill="#1a7f37">$</tspan><tspan fill="#1f2328" dx="9">ls langs/</tspan></text>
+    <text x="36" y="288" fill="#0969da"><tspan>bash/</tspan><tspan dx="22">c/</tspan><tspan dx="22">go/</tspan><tspan dx="22">java/</tspan><tspan dx="22">python/</tspan><tspan dx="22">typescript/</tspan></text>
+
+    <text x="36" y="327"><tspan fill="#1a7f37">$</tspan><tspan fill="#1f2328" dx="9">ls stack/</tspan></text>
+    <text x="36" y="352" fill="#0969da"><tspan>ansible/</tspan><tspan dx="22">docker/</tspan><tspan dx="22">docker-swarm/</tspan><tspan dx="22">grafana/</tspan><tspan dx="22">kafka/</tspan><tspan dx="22">linux/</tspan><tspan dx="22">portainer/</tspan><tspan dx="22">postgresql/</tspan><tspan dx="22">prometheus/</tspan><tspan dx="22">redis/</tspan></text>
+
+    <text x="36" y="391"><tspan fill="#1a7f37">$</tspan><tspan fill="#1f2328" dx="9">cat .focus</tspan></text>
+    <text x="36" y="416" fill="#59636e">distributed systems · networking · operating systems · system design · security</text>
+
+    <text x="36" y="455"><tspan fill="#1a7f37">$</tspan><tspan fill="#1f2328" dx="9">uptime</tspan></text>
+    <text x="36" y="480" fill="#59636e">Iran · always curious</text>
+
+    <text x="36" y="519" fill="#1a7f37">$</text>
   </g>
 
-  <rect x="46" y="157" width="9" height="16" fill="#1a7f37">
+  <rect x="54" y="507" width="9" height="16" fill="#1a7f37">
     <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 </svg>
